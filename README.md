@@ -4,5 +4,5 @@
 - 🌱 Actualmente estoy aprendiendo Django ya que vengo dee SpringBoot.
 - 💬 Estoy buscando colaborar en proyectos que mejoren los procesos del DCC.
 - 📫 Puedes contactarme a través de luis.herrera.g@uchile.cl.
-- ⚡ Dato curioso: Pretendo llegar a master en el SF6 :).
+- ⚡ Dato curioso: 
 
